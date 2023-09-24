@@ -3,7 +3,7 @@ Fast Sms Bomber Discord For Turkey
 
 # ✨projects Github link for stars✨
 
-- Sms Bomber As Discord Bot[Done GitHub Link](https://github.com/erennyusuf/Sms_Bomber_Discord)
+- Sms Bomber As Discord Bot [Done GitHub Link](https://github.com/erennyusuf/Sms_Bomber_Discord)
 
 ## 📜 Notes 📜
 
